@@ -1,20 +1,24 @@
-# LAB - 401-lab-09
+# LAB - 401-lab-10
 
-## API server
+## Final API Server
 
 ### Author: Travis Skyles
 
 ### Links and Resources
-* [submission PR](https://github.com/tskyles-401-advanced-javascript/401-lab-09/pull/1)
-* [travis](https://travis-ci.com/tskyles-401-advanced-javascript/401-lab-09)
-* [back-end](https://lab-09-401-tskyles.herokuapp.com/)
+* [submission PR]()
+* [travis]()
+* [back-end]()
 * [mongo-model npm](https://www.npmjs.com/package/@tskyles/mongo-model)
 
 #### Documentation
-* [api docs](https://lab-09-401-tskyles.herokuapp.com/api-docs)
-* [jsdocs](https://lab-09-401-tskyles.herokuapp.com/docs)
+* [api docs]()
+* [jsdocs]()
 
 ### Setup
+* clone repo
+* npm init -y
+* npm install
+
 #### `.env` requirements
 * `PORT` - Port Number
 * `MONGODB_URI` - URL to the running mongo instance/db
