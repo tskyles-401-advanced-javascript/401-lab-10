@@ -5,9 +5,9 @@
 ### Author: Travis Skyles
 
 ### Links and Resources
-* [submission PR]()
-* [travis]()
-* [back-end]()
+* [submission PR](https://github.com/tskyles-401-advanced-javascript/401-lab-10/pull/1)
+* [travis](https://travis-ci.com/tskyles-401-advanced-javascript/401-lab-10/jobs/277432792)
+* [back-end](https://tskyles-lab10-401.herokuapp.com/)
 * [mongo-model npm](https://www.npmjs.com/package/@tskyles/mongo-model)
 
 #### Documentation
